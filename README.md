@@ -1,7 +1,7 @@
 ## HTML静态页面
 ![](./PIC.jpg)
-[传送门](https://github.com/cramonDE/htmlDEMO "传送门")
-
+[github传送门](https://github.com/cramonDE/htmlDEMO "传送门")
+[预览地址](http://cramon.tk/webpack/build/index.html "预览地址")
 主要功能是实现了一个乐队**BULR**相关的乐队成员信息和相关的音乐资讯
 ### 使用的框架
 - bootstrap相关的样式以及跑马灯插件
