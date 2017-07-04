@@ -1,5 +1,5 @@
 ## HTML静态页面
-
+![](./PIC.jpg)
 [传送门](https://github.com/cramonDE/htmlDEMO "传送门")
 
 主要功能是实现了一个乐队**BULR**相关的乐队成员信息和相关的音乐资讯
